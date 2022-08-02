@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![movie](https://user-images.githubusercontent.com/70093878/182402618-bea3f044-ae12-476d-a1db-4aa9427a7fed.gif)
+
+
 <!--
 **MichalTalaga17/MichalTalaga17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
