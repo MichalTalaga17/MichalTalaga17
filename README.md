@@ -5,7 +5,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichalTalaga17&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaltalaga17&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaltalaga17&show_icons=true&theme=great-gatsby)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaltalaga17&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
