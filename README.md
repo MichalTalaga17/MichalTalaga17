@@ -7,7 +7,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichalTalaga17&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaltalaga17&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaltalaga17)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/michaltalaga17?username=michaltalaga17)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
