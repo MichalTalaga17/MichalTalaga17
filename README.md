@@ -1,7 +1,7 @@
 # Hello World 👋
 ### I'm Michał...
 
-![movie](https://user-images.githubusercontent.com/70093878/182402618-bea3f044-ae12-476d-a1db-4aa9427a7fed.gif)
+//![movie](https://user-images.githubusercontent.com/70093878/182402618-bea3f044-ae12-476d-a1db-4aa9427a7fed.gif)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichalTalaga17&theme=dark-smoky&background=000000)](https://git.io/streak-stats)               
