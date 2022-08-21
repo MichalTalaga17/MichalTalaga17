@@ -4,7 +4,7 @@
 ![movie](https://user-images.githubusercontent.com/70093878/185683597-a36d1314-300c-48c4-8529-cece6b545cd6.gif)
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalTalaga17&hide=contribs,prs)             
+![](https://raw.githubusercontent.com/MichalTalaga17/github-stats/master/generated/overview.svg#gh-dark-mode-only)          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaltalaga17&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
