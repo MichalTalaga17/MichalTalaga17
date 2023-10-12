@@ -42,10 +42,10 @@
 </div>
 
 ### 💬 Contact  :
-You can find me on [Twitter], 
+You can find me on [X], 
 or on [Linkedin].
 
 
-[Twitter]: https://twitter.com/michal_talaga
+[X]: https://twitter.com/michal_talaga
 [Linkedin]: https://www.linkedin.com/in/micha%C5%82-talaga-a25054247
 
