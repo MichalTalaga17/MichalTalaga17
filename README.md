@@ -1,9 +1,8 @@
 # Hello World 👋
 ### I'm Michał...
 
-### :fire: My Stats :
-![Github stats](https://github-readme-stats.vercel.app/api?username=michaltalaga17&theme=highcontrast&show_icons=true&count_private=true)        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaltalaga17&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire:  I’m currently working on : 
+[Biblify]
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -30,4 +29,5 @@ or on [Linkedin].
 
 [X]: https://twitter.com/michal_talaga
 [Linkedin]: https://www.linkedin.com/in/micha%C5%82-talaga-a25054247
+[Biblify]:https://github.com/MichalTalaga17/biblify
 
