@@ -1,8 +1,7 @@
 # Hello World 👋
 ### I'm Michał...
 
-### :fire:  I’m currently working on : 
-[Biblify]
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,6 +20,12 @@
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
 </div>
+
+
+### :fire:  I’m currently working on : 
+[Biblify]
+
+
 
 ### 💬 Contact  :
 You can find me on [X], 
