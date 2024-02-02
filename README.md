@@ -53,8 +53,8 @@
         if let email = email {
             contactInfo += " You can contact me via email at \(email)."
         }
-        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects
-          together." : " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
+        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects together." :
+          " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
         return contactInfo
     }
 }
