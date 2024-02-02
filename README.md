@@ -1,5 +1,5 @@
 ```swift
-  class MichałTalagaGitHubProfile {
+  class MichalTalaga {
     var supportedLanguages: [String]
     var supportedTools: [String]
     var isHired: Bool
@@ -22,7 +22,10 @@
     }
 
     func introduce() -> String {
-        return "👋 Hi there! I'm Michał Talaga, a dedicated developer with a passion for creating innovative solutions. Currently \(isHired ? "employed" : "looking for new opportunities") at the age of \(age). Let's build something extraordinary together! 🚀"
+        return "👋 Hi there! I'm Michał Talaga,
+          a dedicated developer with a passion for creating innovative solutions.
+          Currently \(isHired ? "employed" : "looking for new opportunities") at the age of \(age).
+          Let's build something extraordinary together! 🚀"
     }
 
     func showcaseSkills() -> String {
@@ -40,7 +43,8 @@
     }
 
     func futureSupportedTechnologiesInfo() -> String {
-        let futureTechnologies = futureSupportedTechnologies.isEmpty ? "No specific plans for now" : "Exploring upcoming technologies like: \(futureTechnologies.joined(separator: ", ")) 🚀"
+        let futureTechnologies = futureSupportedTechnologies.isEmpty ? "No specific plans
+          for now" : "Exploring upcoming technologies like: \(futureTechnologies.joined(separator: ", ")) 🚀"
         return "🔮 \(futureTechnologies)"
     }
 
@@ -49,7 +53,8 @@
         if let email = email {
             contactInfo += " You can contact me via email at \(email)."
         }
-        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects together." : " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
+        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects
+          together." : " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
         return contactInfo
     }
 }
