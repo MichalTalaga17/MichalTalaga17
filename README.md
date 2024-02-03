@@ -24,7 +24,8 @@
     func introduce() -> String {
         return "👋 Hi there! I'm Michał Talaga,
           a dedicated developer with a passion for creating innovative solutions.
-          Currently \(isHired ? "not looking for new opportunities" : "looking for new opportunities" ) at the age of \(age).
+          Currently \(isHired ? "not looking for new opportunities" : "looking for new opportunities" )
+          at the age of \(age).
           Let's build something extraordinary together! 🚀"
     }
 
