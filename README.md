@@ -1,32 +1,17 @@
 ```swift
   class MichalTalaga {
-    var supportedLanguages: [String]
-    var supportedTools: [String]
-    var isHired: Bool
-    var age: Double
-    var favoriteEmojis: [String]
-    var isAvailableForContact: Bool
-    var email: String?
-    var currentProject: String?
-    var futureSupportedTechnologies: [String]
-
-    init() {
-        supportedLanguages = [".js", ".html", ".css", ".php", ".sql"]
-        supportedTools = ["WP", "Docker", "GIT", "CANVA", "FIGMA"]
-        isHired = false
-        age = 18.75
-        isAvailableForContact = true
-        email = "michal.talaga.programming@gmail.com"
-        currentProject = "Biblify"
-        futureSupportedTechnologies = ["Swift", "Sketch"]
-    }
+    var supportedLanguages = [".js", ".html", ".css", ".php", ".sql"]
+    var supportedTools = ["WP", "Docker", "GIT", "CANVA", "FIGMA"]
+    var isHired = false
+    var age = 18.75
+    var isAvailableForContact = true
+    var email = "michal.talaga.programming@gmail.com"
+    var currentProject = "Biblify"
+    var futureSupportedTechnologies = ["Swift", "Sketch"]
 
     func introduce() -> String {
-        return "👋 Hi there! I'm Michał Talaga,
-          a dedicated developer with a passion for creating innovative solutions.
-          Currently \(isHired ? "not looking for new opportunities" : "looking for new opportunities" )
-          at the age of \(age).
-          Let's build something extraordinary together! 🚀"
+        let jobStatus = isHired ? "not looking for new opportunities" : "looking for new opportunities"
+        return "👋 Hi there! I'm Michał Talaga, a dedicated developer. Currently \(jobStatus) at the age of \(age). Let's build something extraordinary together! 🚀"
     }
 
     func showcaseSkills() -> String {
@@ -36,16 +21,12 @@
     }
 
     func currentProjectInfo() -> String {
-        if let project = currentProject {
-            return "🚧 Currently immersed in: \(project). Stay tuned for updates! ✨"
-        } else {
-            return "🤔 Exploring new projects and challenges. Have a suggestion? Let me know!"
-        }
+        let projectInfo = currentProject != nil ? "🚧 Currently immersed in: \(currentProject!). Stay tuned for updates! ✨" : "🤔 Exploring new projects and challenges. Have a suggestion? Let me know!"
+        return projectInfo
     }
 
     func futureSupportedTechnologiesInfo() -> String {
-        let futureTechnologies = futureSupportedTechnologies.isEmpty ? "No specific plans
-          for now" : "Exploring upcoming technologies like: \(futureTechnologies.joined(separator: ", ")) 🚀"
+        let futureTechnologies = futureSupportedTechnologies.isEmpty ? "No specific plans for now" : "Exploring upcoming technologies like: \(futureSupportedTechnologies.joined(separator: ", ")) 🚀"
         return "🔮 \(futureTechnologies)"
     }
 
@@ -54,10 +35,10 @@
         if let email = email {
             contactInfo += " You can contact me via email at \(email)."
         }
-        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects together." :
-          " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
+        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects together." : " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
         return contactInfo
     }
 }
+
 
 ```
