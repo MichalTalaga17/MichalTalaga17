@@ -10,8 +10,11 @@
     var futureSupportedTechnologies = ["Swift", "Sketch"]
 
     func introduce() -> String {
-        let jobStatus = isHired ? "not looking for new opportunities" : "looking for new opportunities"
-        return "👋 Hi there! I'm Michał Talaga, a dedicated developer. Currently \(jobStatus) at the age of \(age). Let's build something extraordinary together! 🚀"
+        let jobStatus = isHired ? "not looking for new
+          opportunities" : "looking for new opportunities"
+        return "👋 Hi there! I'm Michał Talaga, a dedicated developer.
+          Currently \(jobStatus) at the age of \(age).
+          Let's build something extraordinary together! 🚀"
     }
 
     func showcaseSkills() -> String {
@@ -21,12 +24,17 @@
     }
 
     func currentProjectInfo() -> String {
-        let projectInfo = currentProject != nil ? "🚧 Currently immersed in: \(currentProject!). Stay tuned for updates! ✨" : "🤔 Exploring new projects and challenges. Have a suggestion? Let me know!"
+        let projectInfo = currentProject != nil ? "🚧 Currently
+          immersed in: \(currentProject!). Stay tuned for
+          updates! ✨" : "🤔 Exploring new projects and
+          challenges. Have a suggestion? Let me know!"
         return projectInfo
     }
 
     func futureSupportedTechnologiesInfo() -> String {
-        let futureTechnologies = futureSupportedTechnologies.isEmpty ? "No specific plans for now" : "Exploring upcoming technologies like: \(futureSupportedTechnologies.joined(separator: ", ")) 🚀"
+        let futureTechnologies = futureSupportedTechnologies.isEmpty ?
+          "No specific plans for now" : "Exploring upcoming technologies
+          like: \(futureSupportedTechnologies.joined(separator: ", ")) 🚀"
         return "🔮 \(futureTechnologies)"
     }
 
@@ -35,7 +43,10 @@
         if let email = email {
             contactInfo += " You can contact me via email at \(email)."
         }
-        contactInfo += isAvailableForContact ? " Let's connect and discuss exciting projects together." : " 🚧 Currently not available for direct contact, but keep an eye out for future updates!"
+        contactInfo += isAvailableForContact ? " Let's connect and
+          discuss exciting projects together." : " 🚧 Currently
+          not available for direct contact, but keep an eye out
+          for future updates!"
         return contactInfo
     }
 }
