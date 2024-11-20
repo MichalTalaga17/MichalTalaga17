@@ -1,34 +1,44 @@
 # 👋 Hi, I'm Michał Talaga
 
-I'm an 19-year-old passionate developer with experience across a variety of programming languages and tools. I’m constantly learning and expanding my skill set to stay up-to-date with the latest technologies. My current focus is on **Biblify**, a project that I'm really excited about.
+I'm a 19-year-old iOS app developer passionate about building intuitive and engaging mobile applications. With a solid foundation in **Swift** and a keen eye for design, I focus on creating user-friendly experiences that combine functionality with elegance. Currently working on **[MusicControlApp](https://github.com/MichalTalaga17/MusicControlApp)**.
+
+---
 
 ## 🛠️ Skills & Expertise
 
-### Languages I Work With
-- JavaScript (`.js`)
-- HTML (`.html`)
-- CSS (`.css`)
-- PHP (`.php`)
-- SQL (`.sql`)
-- Swift (`.swift`)
+### Core Programming Languages & Frameworks
+- **Swift**: My primary language for iOS app development, utilizing frameworks like SwiftUI and UIKit.
+- **Python**, **JavaScript (React)**, **Node.js**, **Java**, **HTML, CSS**, **PHP**, and **SQL** are languages I use for my school projects.
 
-### Tools I Use
-- VSCode
-- Xcode
-- GIT
-- Canva
-- Figma
+### Tools & Platforms
+- **Xcode**: My main IDE for iOS development.
+- **VSCode**: A versatile tool for multi-platform projects.
+- **Figma & Canva**: For designing and prototyping user interfaces.
+- **GIT**: Version control for team and solo projects.
 
-### Future Technologies to Explore
-- Sketch
+---
 
-## 🌱 Currently Learning
-I'm always eager to learn and improve. My next goal is to dive into **Sketch** to enhance my design capabilities.
+## 🏗️ Current Focus
 
-## 📫 Let's Connect!
-I'm available for new opportunities and collaborations. Feel free to reach out to me via email:
+- I’m diving deeper into:- Advanced **Swift** concepts like interacting with iOS system APIs, managing background tasks, handling notifications, and integrating device features such as sensors and storage.
+- Enhancing app design workflows with **Figma** and soon **Sketch**.
+- Performance optimization and debugging techniques for scalable iOS apps.
 
+---
+
+## 🌱 Passion for Growth
+I’m constantly learning and improving. Currently, I’m focused on:
+- Advancing my **backend development** skills with Node.JS and Python.
+- Diving deeper into **React** for frontend web apps.
+- Exploring **Sketch** and **Figma**
+
+---
+
+## 📫 Let's Build Together!
+
+I’m excited about new challenges and collaborations in the iOS app development space. Let’s create something amazing together! Reach out via email:  
 **[michal.talaga.programming@gmail.com](mailto:michal.talaga.programming@gmail.com)**
 
 ---
-Looking forward to connecting with you! 😊
+
+Looking forward to connecting with fellow developers, designers, and innovators! 😊
