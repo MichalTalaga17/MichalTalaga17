@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michał Talaga
 
-I'm a 19-year-old iOS app developer passionate about building intuitive and engaging mobile applications. With a solid foundation in **Swift** and a keen eye for design, I focus on creating user-friendly experiences that combine functionality with elegance. Currently working on **[MusicControlApp](https://github.com/MichalTalaga17/MusicControlApp)**.
+I'm a 19-year-old iOS app developer passionate about building intuitive and engaging mobile applications. With a solid foundation in **Swift** and a keen eye for design, I focus on creating user-friendly experiences that combine functionality with elegance. Currently working on **[FreelanceFlow](https://github.com/MichalTalaga17/Freelance-Flow)**.
 
 ---
 
