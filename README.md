@@ -28,8 +28,7 @@ I'm a 19-year-old iOS app developer passionate about building intuitive and enga
 
 ## 🌱 Passion for Growth
 I’m constantly learning and improving. Currently, I’m focused on:
-- Advancing my **backend development** skills with Node.JS and Python.
-- Diving deeper into **React** for frontend web apps.
+- Advancing my **Swift** and some **frameworks**
 - Exploring **Sketch** and **Figma**
 
 ---
