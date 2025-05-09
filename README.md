@@ -41,3 +41,5 @@ I’m excited about new challenges and collaborations in the iOS app development
 ---
 
 Looking forward to connecting with fellow developers, designers, and innovators! 😊
+
+[![Michał Talaga profile views](https://u8views.com/api/v1/github/profiles/70093878/views/day-week-month-total-count.svg)](https://u8views.com/github/MichalTalaga17)
