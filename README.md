@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michał Talaga
 
-I'm a 20-year-old iOS app developer passionate about building intuitive and engaging mobile applications. With a solid foundation in **Swift** and a keen eye for design, I focus on creating user-friendly experiences that combine functionality with elegance. Currently working on LLMs using via API **[here](https://github.com/MichalTalaga17/LLMs_swift_training)**.
+I'm a 20-year-old iOS app developer passionate about building intuitive and engaging mobile applications. With a solid foundation in **Swift** and a keen eye for design, I focus on creating user-friendly experiences that combine functionality with elegance.
 
 ---
 
